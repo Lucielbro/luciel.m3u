@@ -1,0 +1,394 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",DREIKOTV CANAL 24/7
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",Discovery ID
+http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCN
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",93.3 FM
+https://14543.live.streamtheworld.com/XHQQ_FM_SC
+#EXTINF:0 tvg-id="ext" group-title="Channels",690 RG AM
+https://19303.live.streamtheworld.com/RG690_SC
+#EXTINF:0 tvg-id="ext" group-title="Channels",LA MEJOR 92.5 FM
+https://16643.live.streamtheworld.com/XHSROFM_SC
+#EXTINF:0 tvg-id="ext" group-title="Channels",LA CALIENTE 94.1
+https://14943.live.streamtheworld.com/XETFM_SC
+#EXTINF:0 tvg-id="ext" group-title="Channels",LA LUPE 105.3
+https://16693.live.streamtheworld.com/XHPAGFM_SC
+#EXTINF:0 tvg-id="ext" group-title="Channels",ONCE NINOS (CLASES)
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=3315&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA 7.3 (CLASES)
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=3316&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA UNO HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=7&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ CLIC HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=11&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=17&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Canal5.mx" group-title="Channels",CANAL 5
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=20&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",AZTECA 7
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=21&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NU9VE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=24&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Channels",ONCE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=25&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA UNO
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=27&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Channels",TELEFORMULA SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=32&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEXIQUENSE TV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=44&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="Channels",AZ CORAZON
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=70&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="AZMundo.cl" group-title="Channels",AZ MUNDO
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=84&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",AZTECA 7 HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=317&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",AZTECA 7 HD (2)
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=322&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",IMAGEN TV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2298&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTIMEDIOS MTY
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2305&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",APREDNE TV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=401&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTIMEDIOS CDMX
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1253&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NU9VE HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1783&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1784&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="Channels",CANAL 5 HD (2)
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Channels",ONCE HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1942&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MVS TV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2149&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="tvcen" group-title="Channels",TVC
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2156&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 4
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2274&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 8
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2307&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEVISA PUEBLA
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2312&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",A+
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2316&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVMAS
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2324&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DEL CONGRESO
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2331&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTIMEDIOS CDMX
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2352&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",IMAGEN TV HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2606&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ACADEMIA
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2703&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",MULTIMEDIOS HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2882&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Tooncast.ar" group-title="Channels",TOONCAST
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=108&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.ar" group-title="Channels",DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=109&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",NICK
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=110&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DisneyXD.ar" group-title="Channels",DISNEY XD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=111&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.ar" group-title="Channels",CARTOON NETWORK
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=112&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.ar" group-title="Channels",DISNEY CHANNEL
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=113&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Boomerang.ar" group-title="Channels",BOOMERANG
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=115&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="BabyTV.ar" group-title="Channels",BABY TV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=116&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",NICK JR
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=117&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DisneyJr.ar" group-title="Channels",DISNEY JR
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=118&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",NICKTOONS SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1708&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Channels",BABY FIRST
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1984&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Nick2.ar" group-title="Channels",NICK 2
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO KIDS
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2373&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BIT ME
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",A3CINE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=3112&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="TBS.ar" group-title="Channels",TBS SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=81&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE PELICULA +
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=121&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLDEN +
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=122&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="Channels",GOLDEN
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=123&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Channels",GOLDEN EDGE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=124&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="TNT.ar" group-title="Channels",TNT
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=126&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="TCM.ar" group-title="Channels",TCM
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=128&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Space.ar" group-title="Channels",SPACE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=129&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="AMC.ar" group-title="Channels",AMC
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=131&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.ar" group-title="Channels",STUDIO UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=132&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ISat.mx" group-title="Channels",I SAT
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=135&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROPA CHANNEL
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=136&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FilmyArts.cl" group-title="Channels",FILMS & ARTS
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=137&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Channels",FXM
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=138&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Channels",FXM SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=332&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoxSerie.de" group-title="Channels",FOX SERIES
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=139&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MORBIDO
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=140&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoxMovies.ar" group-title="Channels",FOX MOVIES
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=146&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalEste.ar" group-title="Channels",CINECANAL
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=149&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Cinemax.ar" group-title="Channels",CINEMAX
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=158&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="AMC.ar" group-title="Channels",AMC
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=328&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Channels",DE PELICULA SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=335&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoxAction.ar" group-title="Channels",FOX ACTION
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=336&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Paramount.uk" group-title="Channels",PARAMOUNT CHANNEL
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1726&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoxCinema.ar" group-title="Channels",FOX CINEMA SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1729&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoxClassics.ar" group-title="Channels",FOX CLASSICS SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ CINEMA
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1787&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMUNDO INTERNACIONAL HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=85&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Fox.ar" group-title="Channels",FOX
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=46&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Sony.ar" group-title="Channels",SONY
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=48&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",WARNER
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=52&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E!
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=55&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=57&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Syfy.ar" group-title="Channels",SYFY
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=59&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FX.ar" group-title="Channels",FX
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=60&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=62&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="AXN.ar" group-title="Channels",AXN
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=64&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Channels",UNICABLE SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=66&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Sundancechannel.hu" group-title="Channels",SUNDANCE TV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=69&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Infinito.ar" group-title="Channels",TNT SERIES
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=71&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Glitz.ar" group-title="Channels",GLITZ
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=76&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Gourmet.ar" group-title="Channels",GOURMET
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=74&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoxLife.ar" group-title="Channels",FOX LIFE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=77&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",DISTRITO COMEDIA SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=78&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Channels",TRUTV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=79&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="TLNovelas.pe" group-title="Channels",TL NOVELAS SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=83&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Lifetime.ar" group-title="Channels",LIFETIME
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=94&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Antena3.ar" group-title="Channels",ANTENA 3
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=199&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoxHD.ar" group-title="Channels",FOX HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=201&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",WARNER HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=205&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=207&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FXHD.ar" group-title="Channels",FX HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=209&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="TruTVHD.mx" group-title="Channels",TRUTV HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=215&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Channels",HOLA TV HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=219&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.ar" group-title="Channels",COMEDY CENTRAL
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=340&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.ar" group-title="Channels",COMEDY CENTRAL SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=341&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Channels",UNICABLE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1499&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="MasChic.ar" group-title="Channels",MAS CHIC
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1842&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Atreseries.es" group-title="Channels",A3SERIES
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2113&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ESPNPlus.ar" group-title="Channels",ESPN +
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=167&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ESPN.ar" group-title="Channels",ESPN
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=168&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ESPN2.ar" group-title="Channels",ESPN 2
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=169&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="Channels",FOX SPORTS
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=170&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports2.ar" group-title="Channels",FOX SPORTS 2
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=172&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=174&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="Channels",FOX SPORTS 3
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=178&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Golf.es" group-title="Channels",GOLF
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=179&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Channels",AYM SPORTS
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=180&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ESPN3SD.ar" group-title="Channels",ESPN 3
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=345&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN HD (2)
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1049&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADRENALINA SPORTS HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1799&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2089&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HAVOC
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2148&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Channels",TVC DEPORTES
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2157&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CLARO SPORTS HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2564&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",FUEL TV HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2587&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",DISCOVERY ID
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2376&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="Channels",GARAGE TV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=75&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.ar" group-title="Channels",DISCOVERY CHANNEL
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=86&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.ar" group-title="Channels",ANIMAL PLANET
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2378&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="History.uk" group-title="Channels",HISTORY
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=89&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",NAT GEO
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=91&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="NGCWild.eu" group-title="Channels",NAT GEO WILD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=92&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Channels",DISCOVERY THEATER
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=95&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",H&H
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=96&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="TravelLivingChannel.ar" group-title="Channels",TLC
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=97&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryScience.ar" group-title="Channels",DISCOVERY SCIENCE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=98&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivilization.ar" group-title="Channels",DISCOVERY CIVILIZATION
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=99&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",DISCOVERY WORLD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=101&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="TVE.se" group-title="Channels",TVE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=198&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="shopping-live" group-title="Channels",SHOPPING
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1943&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.ar" group-title="Channels",FOOD NETWORK
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2145&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="StarTVE.cl" group-title="Channels",STAR TVE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2375&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.ar" group-title="Channels",DISCOVERY TURBO
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2379&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CURIOSITY STREAM
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2594&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Channels",MTV LIVE
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=211&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="MTV.ar" group-title="Channels",MTV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=212&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="MTVHits.ar" group-title="Channels",MTV HITS SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=213&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="Channels",VH1 CLASSIC SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=214&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="VH1.ar" group-title="Channels",VH1 SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=217&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEHIT URBANO SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=218&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEHIT +
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=220&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Channels",BANDAMAX SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=221&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="AzClic.mx" group-title="Channels",AZ CLIC
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=223&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",VH1 HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=334&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOROTV HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=4&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="FOROtv.us" group-title="Channels",FOROTV SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=19&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADN40
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=40&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADN 40 HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=184&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="Channels",CNN
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=185&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="Channels",CNN SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=186&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN Ñ SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=187&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="WOBI.ar" group-title="Channels",WOBI
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=102&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOXN EWS
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=188&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Bloomberg.ar" group-title="Channels",BLOOMBERG
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=190&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="BBC.ar" group-title="Channels",BBC SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=191&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL JAAZERA
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=192&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="NTN24.us" group-title="Channels",NTN 24
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=194&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",JUSTICIA TV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=196&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="HLN.us" group-title="Channels",HLN
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=197&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=203&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="Channels",RT
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=999&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MILENIO HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1250&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Channels",MILENIO SD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1252&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="Cadena3.mx" group-title="Channels",EXCELSIOR TV
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1449&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EL FINANCIERO HD
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1649&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="RTespanol.nws" group-title="Channels",RT ESPAÑOL
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2091&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="France24.ar" group-title="Channels",FRANCE 24
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2402&p=3&k=srregio&f=.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="Videos",SRREGIO.NET
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",OJO NO PEDIMOS 25 PESOS HAY UN FACEBOOK FALSO
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Actualizada 15.11.2020
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",http:///paypal.me/SrRegio
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",@Oficial.SrRegio
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",@SrRegio
+http://regioflix.club/apoyo.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",t.me/SrRegioGrupo
+http://regioflix.club/apoyo.mp4
