@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://salvatv.xyz/wp-content/uploads/2020/11/696.png" group-title="CINEMA",STAR ACTION
+https://dx9dkszwgj.azcdn107.net:8443/hls/4612rwe.m3u8?s=UPK7RvmSt_D7hQlrTPASBg&e=1629176650
+#EXTINF:-1 tvg-logo="https://salvatv.xyz/wp-content/uploads/2020/11/6536.png" group-title="CINEMA" STAR FUN
+https://dx9dkszwgj.azcdn107.net:8443/hls/in515ybo3y.m3u8?s=eoqGPq7qbhxlpyidz3X7-Q&e=1629177122
+#EXTINF:-1 tvg-logo="https://salvatv.xyz/wp-content/uploads/2020/11/6988.jpg" group-title="CINEMA" STAR CINEMA
+https://dx9dkszwgj.azcdn107.net:8443/hls/5s69x53079q85.m3u8?s=E_dRk_anOCnKRHNoMqhBZg&e=1629177379
+#EXTINF:-1 tvg-logo="https://salvatv.xyz/wp-content/uploads/2020/11/3654.png" group-title="CINEMA" FOX MOVIES
+https://dx9dkszwgj.azcdn107.net:8443/hls/4dtc368405sw4mo.m3u8?s=yQ-EtG8VXog6hqycNIixAA&e=1629177680
+
