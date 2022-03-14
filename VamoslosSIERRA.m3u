@@ -1,0 +1,35 @@
+#EXTM3U
+
+
+#EXTINF:-1,CRONICA TV
+https://youtu.be/InSydaLSSlw
+
+#EXTINF:-1, C5N
+https://youtu.be/jN0TnHxhliA
+
+#EXTINF:-1, IP
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+#EXTINF:-1, TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+
+#EXTINF:-1, CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
+
+#EXTINF:-1, GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-1, CINE CLUB
+https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1, ARGENTINISIMA
+http://186.0.233.76:1935/Argentinisima/argentinisima.smil/.m3u8
+
+#EXTINF:-1, NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1, TV FUEGUINA
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
+
+#EXTINF:-1, ACCION SOLANO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6dfcb40e-ad3e-4ac7-95e1-cf33643f31f4&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1f7aa479-f440-11ea-a685-0242ac110002&userId=&serverSideAds=true
