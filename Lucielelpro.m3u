@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-0, Locademia de Pilotos 2
+https://vd264.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1651272308989&srcIp=186.22.238.70&srcAg=CHROME_ANDROID&ms=185.226.52.14&type=4&sig=7m6xaavtZ34&ct=8&urls=45.136.21.49&clientType=0&id=416212060806
+
+#EXTINF:-0, Rambo 1
+https://server28.pelisloadtop.com:443/server28/d38c0a6bffc59e7f565fc08529b2b649/EP.0.1.v0.1635451312.1080.m3u8
+
+#EXTINF:-0, Gigolo Por Accidente
+https://server34.pelisloadtop.com:443/server34/d18d2ebf0d15f25f24e4b65114cf2663/EP.0.1.v0.1635440959.720.m3u8
